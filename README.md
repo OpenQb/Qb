@@ -2,7 +2,7 @@
 
 What is Qb?
 --------------------
-Qb is a world for creative people. That world can be filled up with IoT apps or Games or Any kind of Applications.
+Qb is a world for the creative people. That world can be filled up with IoT apps or Games or Any kind of Applications.
 
 
 How can i build app for Qb?
