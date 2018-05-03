@@ -23,3 +23,9 @@ Download (Latest version - 1.0.0 build 380)
 * MacOS Intel CPU https://drive.google.com/open?id=1ifUu88UWmYeavZtVGun6-oESZ1XuYkJn
 
 * Android armv7 https://drive.google.com/open?id=1EeHUiKhjRSDlKpJ6c_hiJmhHTQ3UXJ_u
+
+
+
+All Versions
+---------------------------------------------------------------
+Google Drive Link: https://drive.google.com/open?id=1hsx5kTpEQ1m8FUQktGe02zpLJ8pdXL0p
