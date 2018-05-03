@@ -15,14 +15,14 @@ Which Qt version is used by Qb?
 Qt5.10.1
 
 
-Download (Latest version - 1.0.0 build 380)
+Download (Latest version - 1.1.0 build 557)
 -------------------------------------------------------------
 
-* Windows x64 https://drive.google.com/open?id=1eXX_XmbZglJR-n1uttqCz5qsRT8M9pm8
+* Windows x64 -
 
-* MacOS Intel CPU https://drive.google.com/open?id=1ifUu88UWmYeavZtVGun6-oESZ1XuYkJn
+* MacOS Intel CPU - https://drive.google.com/open?id=19ch5aHudVjzAmMnWYjsk1LoCCWPC_5Sv
 
-* Android armv7 https://drive.google.com/open?id=1EeHUiKhjRSDlKpJ6c_hiJmhHTQ3UXJ_u
+* Android armv7 - https://drive.google.com/open?id=1hY8mUFeCDjyDsWfx-SNycmfTmUXLEY7j
 
 
 
