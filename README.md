@@ -18,6 +18,9 @@ Qt5.10.1
 Download (Latest version - 1.1.0 build 557)
 -------------------------------------------------------------
 
+* Linux versin - Comming soon
+* Raspberry pi version - Comming soon
+* iOS version - Comming soon
 * Windows x64 -
 
 * MacOS Intel CPU - https://drive.google.com/open?id=19ch5aHudVjzAmMnWYjsk1LoCCWPC_5Sv
