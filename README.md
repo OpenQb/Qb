@@ -15,5 +15,7 @@ Which Qt version is used by Qb?
 Qt5.10.1
 
 
-Download (Latest version - 1.0.0 build 557)
+Download (Latest version)
 -------------------------------------------------------------
+https://github.com/OpenQb/Qb/releases
+
