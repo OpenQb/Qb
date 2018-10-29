@@ -25,6 +25,11 @@ Qb supported platform
 | Android  | 4.4+(armv7) and 5.0+(armv8  |
 | Raspberry Pi  | All  |
 
+Dependency
+--------------------------------
+# Raspberry Pi:
+`sudo apt-get install fuse;sudo modprobe fuse;sudo groupadd fuse;user="$(whoami)";sudo usermod -a -G fuse $user`
+
 
 Download (Latest version)
 -------------------------------------------------------------
