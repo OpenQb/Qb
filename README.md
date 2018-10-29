@@ -20,7 +20,7 @@ Qb supported platform
 | OS or Device  | Version |
 | ------------- | ------------- |
 | Windows  | Window7+  |
-| MacOS | 10.11+  |
+| MacOS | OS X El Capitan 10.11+  |
 | Linux  | Ubuntu 16.04+ or Similar  |
 | Android  | 4.4+(armv7) and 5.0+(armv8  |
 | Raspberry Pi  | All  |
