@@ -2,7 +2,7 @@
 
 What is Qb?
 --------------------
-Qb is a platform to run QML based software.
+Qb is a cross-platform development tool, based on the Qt framework
 
 
 How can i build app for Qb?
