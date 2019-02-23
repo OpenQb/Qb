@@ -12,7 +12,7 @@ Using QML and Javascript.
 
 Which Qt version is used by Qb?
 -------------------------------
-Qt5.11
+Qt5.12
 
 Qb supported platform
 -------------------------------
